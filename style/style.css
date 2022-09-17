@@ -100,7 +100,7 @@ header {
 
 /* header */
 .header__section__middle {
-  background: url('./img/30072807_909538065884146_2710474531215143694_o.png') no-repeat center;
+  background: url('./img/disp.png') no-repeat center;
   background-size: cover;
   min-height: 600px;
   filter: contrast(1.5);
